@@ -19,6 +19,6 @@ C++ 개발자 여경모입니다!
 2017.09 ~ 2021.08 
 University of Nottingham - Computer Science, First Class
 
-##
+
 
 
